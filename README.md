@@ -17,6 +17,10 @@ given in the form of a python object list.
 2. Create the html file by running command: `python entertainment_center.py`. This will create an html file by the name of `fresh_tomatoes.html`
 4. Open `fresh_tomatoes.html` in the browser
 
+
+#### Screnshot
+
 ![Screenshot](screenshots/fresh_tomatoes.png)
 
+License: [MIT License](LICENSE)
 
